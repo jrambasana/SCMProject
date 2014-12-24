@@ -2,6 +2,6 @@
 #include<coinio.h>
 void main()
 {
-	printf("Hellooooo");
+	printf("Helloo World");
 	getch();
 }
